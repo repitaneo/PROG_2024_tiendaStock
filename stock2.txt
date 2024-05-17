@@ -1,0 +1,12 @@
+FA_1
+Pantalones
+24
+2.56
+FA_2
+Camisetas
+13
+1.56
+FA_3
+Bañadores
+10
+3.06
